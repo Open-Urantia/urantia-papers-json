@@ -1,4 +1,4 @@
-# OpenUrantia - Open-Source Urantia Papers Data
+# UrantiaHub - Open-Source Urantia Papers Data
 
 Welcome to the "Open-Source Urantia Papers Data" repository, a hub for innovation and development of diverse applications leveraging the rich and profound content of the Urantia Papers. This open-source collection provides both the Urantia Papers content in a structured JSON format and MP3 audio files for each paper and node. It is designed to facilitate easy integration and accessibility of the Urantia Papers content for various projects, from academic research tools to spiritual study apps. Please use this data freely in your personal and commercial projects, and feel free to contribute to its enhancement and expansion.
 
@@ -95,8 +95,8 @@ To clone the repository without the audio files, use Git's sparse-checkout featu
    Start by cloning the repository but don't check out files immediately.
 
    ```sh
-   git clone --no-checkout https://github.com/Open-Urantia/OpenUrantia-data.git
-   cd OpenUrantia-data
+   git clone --no-checkout https://github.com/urantia-hub/data.git
+   cd data
    ```
 
 2. **Enable Sparse-Checkout:**
@@ -140,7 +140,7 @@ To integrate this data with Algolia or similar services, consider the following 
 
 By following these steps, developers can create sophisticated search experiences that allow users to quickly and efficiently find the information they need within the Urantia Papers content.
 
-(Need some help using this data? [Reach out to us on our Issues page](https://github.com/Open-Urantia/urantia-papers-json/issues) and we'll be happy to assist you!)
+(Need some help using this data? [Reach out to us on our Issues page](https://github.com/urantia-hub/urantia-papers-json/issues) and we'll be happy to assist you!)
 
 ### Example Applications
 
